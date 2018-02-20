@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tele2Parser</string>
+    <string name="page_count">Страница: %d</string>
+</resources>
